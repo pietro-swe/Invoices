@@ -1,0 +1,5 @@
+{
+  "yaml.schemas": {
+    "https://json.schemastore.org/kong_json_schema.json": "file:///home/marechal-dev/Dev/Source/Learning/Courses/RocketSeat/Desafio-Microservices/docker/kong/config.yaml"
+  }
+}
